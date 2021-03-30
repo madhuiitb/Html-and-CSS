@@ -4,7 +4,7 @@ For the beginers.
 How to use CSS styles using .css file as an external file. <br>
 Like <br>
 <br> ``` Universal selector (*)  ==> ``` selects all HTML elements on the page
-<br> color ==> you can set the color of text
+<br> ``` color ==> ``` you can set the color of text
 <br> text-align ==> used to set the horizontal alignment of a text
 <br> background-color ==> used to set the background color of an element, and to specify a background color for links
 <br> border-radius ==>  is used to add rounded borders to an element
