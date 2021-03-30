@@ -25,7 +25,7 @@ margin-bottom
 border-radius
 outline
 <br><br>
-In HTML you will get to know about following TAGS.
+In HTML you will get to know about following TAGS.<br><br>
 html
 head
 title
